@@ -1,0 +1,27 @@
+#head_jumbotron {
+  background-image: url("/jeddah-saudi-arabia-december-21-600w-1352925158.webp");
+  height: 400px;
+  padding-top: 20px;
+}
+
+#head_jumbotron_inner_div {
+  border-style: solid;
+  border-color: #fff;
+  border-width: 8px;
+  width: 50%;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.img {
+  height: 300px;
+}
+
+#cat-div {
+  border-style: solid;
+  border-width: 1px;
+  border-color: silver;
+  border-radius: 5px;
+  padding: 25px;
+}
